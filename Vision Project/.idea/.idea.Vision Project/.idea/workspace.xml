@@ -10,9 +10,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.spriteshape@4.1.4/Runtime/SpriteShapeController.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/PlayerMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/EnemyChaseScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/EnemyChase.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/playervision.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/EnemyChase.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Vision.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1rzUtOceARe2pKWPPmHBzDJUyk7" />
@@ -57,6 +66,13 @@
       <option name="presentableId" value="Default" />
       <updated>1619978683104</updated>
       <workItem from="1619978883476" duration="795000" />
+      <workItem from="1620145428172" duration="69000" />
+      <workItem from="1620146097542" duration="100000" />
+      <workItem from="1620146402062" duration="2395000" />
+      <workItem from="1620229145800" duration="1178000" />
+      <workItem from="1620305412132" duration="9066000" />
+      <workItem from="1620386818670" duration="1623000" />
+      <workItem from="1620388821729" duration="2416000" />
     </task>
     <servers />
   </component>
@@ -75,6 +91,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
